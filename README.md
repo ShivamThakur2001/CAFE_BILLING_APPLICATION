@@ -1,3 +1,17 @@
 # CAFE_BILLING_APPLICATION
 
-This project is about managing the operation of billing system in cafe shops. In this project we have used the Python Language to implement backend and for frontend we have used QT Designer. For connecting frontend with python backend we have used PYQT5 library which is availabe in python. In this we have 3 frontend page. First page is about ADMIN login, for this we have set a default username and password. Second page contain items avaliable in the the cafe or shop and billing section and print section. Third page is about updating or modifying an existing items.
+Introduction
+
+This Python application is built using the PyQt5 library for the graphical user interface and SQLite3 for the database management. The app is designed to help cafe owners efficiently manage their billing operations by providing an intuitive and user-friendly interface for creating bills and managing orders.
+
+Features
+
+1. Billing Management: The app allows cafe owners to create and manage bills for their customers, including adding various menu items and calculating the total bill amount.
+
+2. Menu Management: Users can easily customize the cafe's menu by adding, updating, or deleting menu items along with their corresponding prices.
+
+Dependencies
+
+1. PyQt5: A set of Python bindings for the Qt application framework, used for building the GUI.
+
+2. SQLite3: A lightweight database engine, used to store and manage billing information.
